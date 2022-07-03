@@ -3,21 +3,13 @@ package nuweStrong;
 import java.util.Arrays;
 
 public class StrongNumber {
-    private static int[] values;
-
-    public StrongNumber() {
-        //això es pot fer aquí... així?
-        values = new int[9];
-        values[0] = 1;
-        for (int i = 1; i < 9; i++) values[i] = values[i - 1] * (i + 1);
-    }
 
     public static String isStrongNumber(int num) {
 
         //Array amb valors de factorials 1-9
-        //int[] values = new int[9];
-        //values[0] = 1;
-        //for (int i = 1; i < 9; i++) values[i] = values[i - 1] * (i + 1);
+        int[] values = new int[9];
+        values[0] = 1;
+        for (int i = 1; i < 9; i++) values[i] = values[i - 1] * (i + 1);
 
         // Reordenar enter (0->1)
         String numString = String.valueOf(num).replace("0", "1");
