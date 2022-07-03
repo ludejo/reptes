@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="fora prints">
-      <change afterPath="$PROJECT_DIR$/src/test/java/nuweStrong/StrongNumberTest.java" afterDir="false" />
+    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="tests correctes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuweCoupon/CouponValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/nuweCoupon/CouponValidatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nuweStrong/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuweStrong/StrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +47,26 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="nuweCoupon" />
       <recent name="nuweStrong" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CouponValidatorTest">
+    <configuration name="CouponValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reptes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nuweCoupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nuweCoupon" />
+      <option name="MAIN_CLASS_NAME" value="nuweCoupon.CouponValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StrongNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="reptes" />
       <extension name="coverage">
@@ -69,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CouponValidatorTest" />
         <item itemvalue="JUnit.StrongNumberTest" />
       </list>
     </recent_temporary>
@@ -124,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656869231707</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tests correctes">
+      <created>1656870215144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656870215144</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="fora prints" />
-    <option name="LAST_COMMIT_MESSAGE" value="fora prints" />
+    <MESSAGE value="tests correctes" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests correctes" />
   </component>
 </project>
