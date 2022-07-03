@@ -22,7 +22,6 @@ public class StrongNumber {
         char[] ar = numString.toCharArray();
         Arrays.sort(ar);
         int numSorted = Integer.parseInt(String.valueOf(ar));
-        System.out.printf("Unsorted: %d - Sorted: %d\n", num, numSorted);
 
         // Restar factorials de número original fins a <0
         int acc = num;
