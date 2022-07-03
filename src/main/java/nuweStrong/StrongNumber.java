@@ -3,10 +3,11 @@ package nuweStrong;
 import java.util.Arrays;
 
 public class StrongNumber {
-    private static final int[] values = new int[9];
+    private static int[] values;
 
     public StrongNumber() {
-        //això es pot fer aquí...?
+        //això es pot fer aquí... així?
+        values = new int[9];
         values[0] = 1;
         for (int i = 1; i < 9; i++) values[i] = values[i - 1] * (i + 1);
     }

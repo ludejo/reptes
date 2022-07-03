@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="init">
+    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="fora prints">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nuweStrong/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuweStrong/StrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656868996352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fora prints">
+      <created>1656869130223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656869130223</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="fora prints" />
+    <option name="LAST_COMMIT_MESSAGE" value="fora prints" />
   </component>
 </project>
