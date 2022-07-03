@@ -28,7 +28,6 @@ public class StrongNumber {
         int acc = num;
         while (acc > 0) {
             int residu = numSorted % 10;
-            System.out.println(residu);
             numSorted = (numSorted - residu) / 10;
             acc -= values[residu - 1];
         }
