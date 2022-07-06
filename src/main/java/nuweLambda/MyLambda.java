@@ -26,12 +26,12 @@ public class MyLambda {
 
     IntConsumer output = x -> {
         String result = "NOT A POSSIBLE OPTION";
-        if (x != 0) {
+        if (x <= 0) {
             result = String.format(
                     "{\n\tinput:%d," +
                             "\n\tisOdd:%s," +
                             "\n\tisPrime:%s," +
-                            "\n\tisPalindrome:%s,\n\t}",
+                            "\n\tisPalindrome:%s,\n\t},",
                     x, isOdd.apply(x), isPrime.apply(x), isPalindrome.apply(x));
         }
         System.out.println(result);

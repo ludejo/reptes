@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="tests correctes+incorrectes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nuweLambda/MyLambda.java" afterDir="false" />
+    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="nuwe &quot;lambdas&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nuweLambda/MyLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuweLambda/MyLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656881068891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="nuwe &quot;lambdas&quot;">
+      <created>1657102316147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657102316148</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +179,7 @@
     <MESSAGE value="fora prints" />
     <MESSAGE value="tests correctes" />
     <MESSAGE value="tests correctes+incorrectes" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests correctes+incorrectes" />
+    <MESSAGE value="nuwe &quot;lambdas&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuwe &quot;lambdas&quot;" />
   </component>
 </project>
