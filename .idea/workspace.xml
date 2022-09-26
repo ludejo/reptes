@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="nuwe &quot;lambdas&quot;">
+    <list default="true" id="04cd3aa8-96b7-4b0c-b6ed-11ec421ad459" name="Changes" comment="readme">
+      <change afterPath="$PROJECT_DIR$/src/main/java/repeticions/DetectorCaracters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repeticions/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nuweLambda/MyLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuweLambda/MyLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,20 @@
       <recent name="nuweStrong" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CouponValidatorTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeticions.Main" />
+      <module name="reptes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeticions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CouponValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="reptes" />
       <extension name="coverage">
@@ -83,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CouponValidatorTest" />
         <item itemvalue="JUnit.StrongNumberTest" />
       </list>
@@ -160,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657102316148</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="nuwe &quot;lambdas&quot;">
+      <created>1657102535624</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657102535624</updated>
+    </task>
+    <task id="LOCAL-00011" summary="readme">
+      <created>1657103146645</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657103146645</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +209,7 @@
     <MESSAGE value="tests correctes" />
     <MESSAGE value="tests correctes+incorrectes" />
     <MESSAGE value="nuwe &quot;lambdas&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="nuwe &quot;lambdas&quot;" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>
